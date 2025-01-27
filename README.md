@@ -4,7 +4,7 @@
   <img align="left" alt="Josh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/joshbouy">
+<a href="https://github.com/jbaylasy">
   <img align="left" alt="Josh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
