@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello, I'm [Josh!](https://github.com/jbaylasy/) 👋
 
-<!--
-**jbaylasy/jbaylasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/joshua-baylasy/">
+  <img align="left" alt="Josh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/joshbouy">
+  <img align="left" alt="Josh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+</br>
+
+- How to reach me: [email](mailto:joshbaylasy@gmail.com) 
+- Pronouns: He/Him
